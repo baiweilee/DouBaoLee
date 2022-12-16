@@ -1,0 +1,105 @@
+{
+    
+    "name":"kingLee",
+    
+            "list": [
+                {
+                    "productId": "10001",
+                    "productName": "可口可乐",
+                    "productJumpType": "101",
+                    "productJumpUrl": "路由",
+                    "productType": "",
+                    "productImage": "",
+                    "parts": [
+                        {
+                            "partsId": "20001",
+                            "partsName": "易拉罐"
+                        }
+                    ]
+                },
+                {
+                    "productId": "10002",
+                    "productName": "百事可乐",
+                    "productJumpType": "102",
+                    "productJumpUrl": "路由",
+                    "productType": "",
+                    "productImage": "",
+                    "parts": [
+                        {
+                            "partsId": "20002",
+                            "partsName": "小塑"
+                        }
+                    ]
+                },
+                {
+                    "productId": "10003",
+                    "productName": "格瓦斯",
+                    "productJumpType": "103",
+                    "productJumpUrl": "路由",
+                    "productType": "",
+                    "productImage": "",
+                    "parts": [
+                        {
+                            "partsId": "20003",
+                            "partsName": "大塑"
+                        }
+                    ]
+                },
+                {
+                    "productId": "10004",
+                    "productName": "秋林里道斯",
+                    "productJumpType": "104",
+                    "productJumpUrl": "路由",
+                    "productType": "",
+                    "productImage": "",
+                    "parts": [
+                        {
+                            "partsId": "20004",
+                            "partsName": "礼盒"
+                        }
+                    ]
+                },
+                {
+                    "productId": "10005",
+                    "productName": "芒果",
+                    "productJumpType": "105",
+                    "productJumpUrl": "路由",
+                    "productType": "",
+                    "productImage": "",
+                    "parts": [
+                        {
+                            "partsId": "20005",
+                            "partsName": "榨汁"
+                        }
+                    ]
+                },
+                {
+                    "productId": "10006",
+                    "productName": "榴莲",
+                    "productJumpType": "106",
+                    "productJumpUrl": "路由",
+                    "productType": "",
+                    "productImage": "",
+                    "parts": [
+                        {
+                            "partsId": "20006",
+                            "partsName": "芝士焗榴莲"
+                        }
+                    ]
+                },
+                {
+                    "productId": "10007",
+                    "productName": "法师",
+                    "productJumpType": "107",
+                    "productJumpUrl": "路由",
+                    "productType": "",
+                    "productImage": "",
+                    "parts": [
+                        {
+                            "partsId": "20007",
+                            "partsName": "中路"
+                        }
+                    ]
+                }
+            ]
+    }
