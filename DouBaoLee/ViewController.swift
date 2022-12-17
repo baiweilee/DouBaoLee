@@ -28,6 +28,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        self.navigationItem.title = "DouBaoLee"
+        
         self.model = self.readLocalFileWithName(name: "Data")
         
         self.tableView = UITableView(frame: CGRect(x: 0,
