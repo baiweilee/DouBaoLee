@@ -28,6 +28,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        // 添加测试代码
+        
         self.navigationItem.title = "DouBaoLee"
         
         self.model = self.readLocalFileWithName(name: "Data")
